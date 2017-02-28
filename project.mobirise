@@ -87,7 +87,7 @@
           "_name": "header1",
           "_anchor": "header1-3",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/bakery5-2000x1312.png",
