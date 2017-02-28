@@ -90,7 +90,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bakery5-2000x1312.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/bakery6-2000x1312.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
